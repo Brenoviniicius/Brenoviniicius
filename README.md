@@ -4,10 +4,10 @@
 - 🌱 Aprendendo java e springboot junto com kotlin
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duizpisico&show_icons=true&theme=dracula&count_private=true&show_owner"
+  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api?username=duizpisico&show_icons=true&theme=dracula&count_private=true&show_owner"
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duizpisico&layout=compact&theme=dracula" />
+  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duizpisico&layout=compact&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
