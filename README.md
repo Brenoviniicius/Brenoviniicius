@@ -1,7 +1,7 @@
 _<h1 text align="center">Oi, me chamo Breno Vinicius👋</h1>_
 
 - 🔭 Atualmente trabalho como aprendiz no setor financeiro
-- 🌱 Aprendendo java e springboot junto com kotlin
+- 🌱 Aprendendo java e springboot
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=duizpisico&show_icons=true&theme=dracula&count_private=true&show_owner"
@@ -15,7 +15,6 @@ _<h1 text align="center">Oi, me chamo Breno Vinicius👋</h1>_
   <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img align="center" alt="Java-Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=whit">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
   
