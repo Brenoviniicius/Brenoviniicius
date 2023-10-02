@@ -29,5 +29,5 @@ _<h1 text align="center">Oi, me chamo Breno Vinicius👋</h1>_
 </div>
 </h2>
   
-  ![Snake animation](https://github.com/Brenoviniicius/Brenoviniicius/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Brenoviniicius/Brenoviniicius/blob/output/github-contribution-grid-snake.gif)
 
