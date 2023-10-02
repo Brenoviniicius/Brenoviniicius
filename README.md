@@ -4,10 +4,10 @@ _<h1 text align="center">Oi, me chamo Breno Vinicius👋</h1>_
 - 🌱 Aprendendo java e springboot
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=duizpisico&show_icons=true&theme=dracula&count_private=true&show_owner"
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=Brenoviniicius&show_icons=true&theme=dracula&count_private=true&show_owner"
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duizpisico&layout=compact&theme=dracula" />
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenoviniicius&layout=compact&theme=dracula" />
 </a>
 
 
@@ -29,5 +29,5 @@ _<h1 text align="center">Oi, me chamo Breno Vinicius👋</h1>_
 </div>
 </h2>
   
-  ![Snake animation](https://github.com/duizpisico/duizpisico/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Brenoviniicius/Brenoviniicius/blob/output/github-contribution-grid-snake.svg)
 
