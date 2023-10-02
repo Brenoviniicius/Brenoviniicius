@@ -28,6 +28,3 @@ _<h1 text align="center">Oi, me chamo Breno Vinicius👋</h1>_
 <a href="https://github.com/duizpisico" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 </h2>
-  
- ![snake gif](https://github.com/Brenoviniicius/Brenoviniicius/blob/output/github-contribution-grid-snake.gif)
-
